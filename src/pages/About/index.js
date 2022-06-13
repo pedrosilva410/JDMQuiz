@@ -22,7 +22,7 @@ const About = () => {
       <br/>
       <br/>
       In 1988, JDM cars were limited by voluntary self-restraints among manufacturers
-      to 280 horsepower (PS) (276 hp) and a top speed of 180 km/h (111.8 mph),
+      to 280 horsepower, also known as the gentleman's agreement (PS) (276 hp) and a top speed of 180 km/h (111.8 mph),
       limits imposed by the Japan Automobile Manufacturers Association (JAMA) for safety.
       The horsepower limit was lifted in 2004 but the speed limit of 180 km/h (111.8 mph) remains.
       <br/>

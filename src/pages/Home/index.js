@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink, useLocation } from "react-router-dom";
 import "./styles.css";
 
 const Home = () => {
@@ -8,8 +9,13 @@ const Home = () => {
       <p className="home__p">
         A quiz about the japanese domestic market
       </p>
-      <button className="home_play">Play</button>
-    </main>
+      <NavLink
+       className="home_play"
+       to="/about"
+      >
+      <a className="home_playA">Play</a>
+      </NavLink>
+    </main> 
   );
 };
 
